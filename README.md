@@ -1,4 +1,4 @@
- Tripadvisor Clone 🌍✈️
+🌍 Tripadvisor Clone ✈️
 
 This is a **Tripadvisor-inspired travel website** built using **HTML** and **CSS**.  
 It showcases destinations, hotels, restaurants, and travel experiences with a clean, modern, and user-friendly design.
